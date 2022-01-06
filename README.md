@@ -6,7 +6,7 @@ Hey, I'm Gustavo Lameirão de Lima.
 - Technical course on Electronics at Instituto Federal Sul-rio-grandense (IFSul Pelotas)
 - Graduation degree on Internet Systems at Instituto Federal Sul-rio-grandense (IFSul Pelotas)
 - Master degree on Computation Engineer at Universidade Federal do Rio Grande (FURG)
-- Current running a PhD degree on Computation at Universidade Federal de Pelotas (UFPEL)
+- PhD degree (current running) on Computation at Universidade Federal de Pelotas (UFPEL)
 
 You can check my academic resumee CV at:
  http://lattes.cnpq.br/8420300793684736
