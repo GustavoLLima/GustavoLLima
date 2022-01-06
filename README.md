@@ -2,7 +2,7 @@
 
 Hey, I'm Gustavo Lameirão de Lima. 
 
-###Degrees:
+## Degrees:
 - Technical course on Electronics at Instituto Federal Sul-rio-grandense (IFSul Pelotas)
 - Graduation degree on Internet Systems at Instituto Federal Sul-rio-grandense (IFSul Pelotas)
 - Master degree on Computation Engineer at Universidade Federal do Rio Grande (FURG)
@@ -11,7 +11,7 @@ Hey, I'm Gustavo Lameirão de Lima.
 You can check my academic resumee CV at:
  http://lattes.cnpq.br/8420300793684736
 
-###Experience:
+## Experience:
 
 - I worked most of the time as a freelancer web developer, both helping another programmers and developing products for the end user. Also, during my graduation/master degree, I worked as a helper for some programming classes. I also worked at IFSUL as a developer and help desk for online courses. At the moment, I'm running a PhD scholarship.
 
@@ -21,7 +21,7 @@ You can check my academic resumee CV at:
 
 - 👯 Things that I have some experience: PHP, CakePHP, NetLogo, Python, CSS/JS/HTML, C, Java...
 
-###Contact
+## Contact
 
 - 📫 You can contact me mainly by email (gustavolameirao@gmail.com). I'll get back to you quickly 😄.
 
