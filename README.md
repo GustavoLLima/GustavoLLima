@@ -13,7 +13,7 @@ You can check my academic resumee CV at:
 
 ## Experience
 
-- I worked most of the time as a freelancer web developer, both helping another programmers and developing products for the end user. Also, during my graduation/master degree, I worked as a helper for some programming classes. I also worked at IFSUL as a developer and help desk for online courses. At the moment, I'm running a PhD scholarship.
+- I worked most of the time as a freelancer web developer, both helping another programmers and developing products for the end user. Also, during my graduation/master degree, I worked as a helper for some programming classes. I also worked at IFSUL as a web developer and IT support for online courses. At the moment, I'm running a PhD scholarship.
 
 - 🔭 I'm currently doing research on Open Multiagent Systems simulation, building a framework based on Docker. I'm interessed in all kind of topics, anything releated to: Artificial Intelligence (AI), Multiagent Systems, Multiagent Simulation, Web Development, High level simulation and so on...
 
